@@ -1,0 +1,8 @@
+*.cmi
+*.cmo
+*.cache
+*.log
+*.swp
+*.swo
+*/test
+.DS_Store
